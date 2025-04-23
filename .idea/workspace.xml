@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="760a7334-cbea-4bff-b8e6-0438e2f8cdd0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evil_nun_reviews.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/evil_nun_reviews.csv" beforeDir="false" afterPath="$PROJECT_DIR$/evil_nun_reviews.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playstore-scrappping.py" beforeDir="false" afterPath="$PROJECT_DIR$/playstore-scrappping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,8 @@
       <workItem from="1745313588175" duration="4647000" />
       <workItem from="1745334268844" duration="8237000" />
       <workItem from="1745389010504" duration="8914000" />
-      <workItem from="1745422959700" duration="3835000" />
+      <workItem from="1745422959700" duration="17162000" />
+      <workItem from="1745441893554" duration="6148000" />
     </task>
     <servers />
   </component>
