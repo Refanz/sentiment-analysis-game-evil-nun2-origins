@@ -34,7 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.playstore-scrappping.executor": "Run",
+    "Python.playstore-scrappping.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
@@ -46,7 +46,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Jupyter Settings",
+    "settings.editor.selected.configurable": "web.server",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -103,7 +103,10 @@
       <workItem from="1745422959700" duration="17162000" />
       <workItem from="1745441893554" duration="9301000" />
       <workItem from="1745488953035" duration="1833000" />
-      <workItem from="1745515693746" duration="17396000" />
+      <workItem from="1745515693746" duration="21830000" />
+      <workItem from="1745634015188" duration="16244000" />
+      <workItem from="1745668170000" duration="4744000" />
+      <workItem from="1745673613937" duration="17449000" />
     </task>
     <servers />
   </component>
@@ -111,6 +114,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/sentiment_analysis_game_evil_nun2_origins$playstore_scrappping.coverage" NAME="playstore-scrappping Coverage Results" MODIFIED="1745342673887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sentiment_analysis_game_evil_nun2_origins$playstore_scrappping.coverage" NAME="playstore-scrappping Coverage Results" MODIFIED="1745670713589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
