@@ -1,18 +1,19 @@
-import csv
-
+# Melakukan import library
+import pandas as pd
 from google_play_scraper import Sort, reviews_all
 
+# Melakukan proses scraping
 scraper_view = reviews_all(
-    'com.keplerians.evilnun',
+    'id.co.bri.brimo',
     lang='id',
     country='id',
     sort=Sort.MOST_RELEVANT,
-    count=12000
+    count=100
 )
 
-with open('evil_nun_reviews.csv', mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Review'])
-    for review in scraper_view[:12000]:
-        writer.writerow([review['content']])
+# Menyimpan hasil scraping ke dalam DataFrame
+app_reviews_df = pd.DataFrame(scraper_view)
+
+# Melakukan konversi dari Dataframe ke CSV
+app_reviews_df.to_csv('review-dataset.csv', index=False)
 
